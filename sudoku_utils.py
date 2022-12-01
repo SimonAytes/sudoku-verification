@@ -60,6 +60,9 @@ class SolutionChecker:
 
     def verify(self):
         """Verify the solution of the soduku puzzle via each threa's truth value"""
+        
+        print(f"\n\t**Number of threads used: {len(self.thread_list)}")
+
         truth_vals = []
 
         for t in self.thread_list:
