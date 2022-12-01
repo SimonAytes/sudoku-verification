@@ -1,4 +1,4 @@
-# Sudodu Verification Program
+# Sudoku Verification Program
 
 Simon Aytes
 
